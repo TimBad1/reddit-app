@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(253,255,216);
+    background: linear-gradient(120deg, rgba(253,255,216,0.9976365546218487) 0%, rgba(232,255,0,1) 48%, rgba(255,171,0,1) 100%);
+}
+.title {
+    text-shadow: 7px 5px 7px gray;
+    font-family: sans-serif;
+    font-size: 64px;
+}
